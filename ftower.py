@@ -101,14 +101,14 @@ class Player(pygame.sprite.Sprite):
 		self.jump_ready = True
 		self.frame_since_jump = 0
 pygame.init()
-pygame.mixer.music.load('res/an-turr.ogg')#load music
+pygame.mixer.music.load('an-turr.ogg')#load music
 pygame.mixer.music.play(-1)
-jump=pygame.mixer.Sound('res/jump.wav')
+jump=pygame.mixer.Sound('jump.wav')
 #background=pygame.image.load('res/back.png').convert_alpha()
 # Set the height and width of the screen
 size=[640,480]
 screen=pygame.display.set_mode(size)
-background=pygame.image.load('res/back.png')
+background=pygame.image.load('back.png')
 count=0
 pygame.display.set_caption("JUMP!")
 
