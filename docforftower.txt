@@ -1,0 +1,11 @@
+Documentation for the game Fiery Tower 1.0.0
+Inspired by: Pygame Tutorials, Lunch (by Tirtha .P . Chatterjee)
+Credits : Myself(Mayank K. Jha)
+
+This is a very simple game written in pygame m eant for both Windows and Linux. Its a simple effort to show how simple pygame module is for quickly developing short games in python and how it saves our time through the simple and easy to grasp syntax of python.
+
+Rules of the Game:
+The Rules are pretty simple You have to be above the ground which is on fire for as long as possible(using the arrow keys) to elevate your rank and hence depart from the fiery tower of hell through the moksha dwar which keeps lurking by. 
+
+Your Performance is measured by your rank which you earn before departing from the fiery tower of hell. Good Luck to all!! Hope this serves as a useful material for understanding PyGame!! Would be grateful to hear feedback at mayank.jha@outlook.com or mayank25080562@gmail.com!!!
+
